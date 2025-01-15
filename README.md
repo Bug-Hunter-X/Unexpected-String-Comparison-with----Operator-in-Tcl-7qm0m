@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Tcl:  the unexpected string comparison behavior of the `==` operator.  The `bug.tcl` file shows the problematic code, while `bugSolution.tcl` provides the corrected version, using the `expr` command for numerical comparison.  Please see the detailed explanation within the code files.
